@@ -12,7 +12,7 @@ maingit
 remote
 add
 origin
-https://github.com/infobordalo/django.git
+https://github.com/infobordalo/django.gitgit
 push
 -u
 origin
